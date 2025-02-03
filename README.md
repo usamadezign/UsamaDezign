@@ -150,5 +150,5 @@ I'm a **Full Stack Developer** with a passion for creating beautiful, functional
 ---
 
 <p align="center"> 
-  Made with ❤️ by M Usama | © 2023
+  Made with ❤️ by M Usama | © 2025
 </p>
