@@ -22,7 +22,7 @@
 I'm a **Full Stack Developer** with a passion for creating beautiful, functional, and user-friendly web applications. I love turning ideas into reality through code and design. Here's a little more about me:
 
 - 🔭 **Currently Working On**: Web development projects.
-- 🌱 **Currently Learning**: PHP, Laravel, and Advanced JavaScript.
+- 🌱 **Currently Learning**:  I’m currently learning EveryThing 😆
 - 👯 **Looking to Collaborate On**: Redesign projects.
 - 🤝 **Looking for Help With**: Web development challenges.
 - 💬 **Ask Me About**: React, Vue, GSAP, SEO, and Graphic Design.
